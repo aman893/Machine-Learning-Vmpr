@@ -1,4 +1,4 @@
-# Machine-Learning-Vmpr
+# Machine-Learning-Vmpr-jupyter-notebook
 
 # Reviewing the types of problems that can be solved 
 #Understanding building blocks 
